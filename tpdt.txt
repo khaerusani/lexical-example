@@ -1,0 +1,8 @@
+record
+array
+string
+integer
+real
+char
+boolean
+text

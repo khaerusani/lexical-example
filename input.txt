@@ -1,0 +1,4 @@
+A - B | C | VAR 
+B - C | BEGIN
+C - END
+A
